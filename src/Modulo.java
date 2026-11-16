@@ -9,6 +9,7 @@ public class Modulo {
         this.lenguaje = lenguaje;
         this.progreso = progreso;
         this.terminado = terminado;
+
     }
 
     public String getNombre() {

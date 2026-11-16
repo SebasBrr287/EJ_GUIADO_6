@@ -13,6 +13,7 @@ public class AnalizadorProyecto {
             }
         }
         return resultado;
+
     }
 
     public int contarTerminados() {
